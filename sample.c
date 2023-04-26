@@ -12,5 +12,7 @@ int main()
 	printf("add new features");
 	printf("kweng");
 	printf("hehe");
+	printf("gotum");
+	printf("gotum 2nd");
 	return 0;
 } 
