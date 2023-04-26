@@ -10,6 +10,9 @@ int main()
 	printf("Hello from branch staging -edited bleee");
 	printf("Hello from branch staging"); 
 	printf("add new features");
+<<<<<<< Updated upstream
 	printf("kweng");
+=======
+>>>>>>> Stashed changes
 	return 0;
 } 
