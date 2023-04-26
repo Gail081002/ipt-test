@@ -7,5 +7,8 @@ int main()
 	printf("hello world!");
 	printf("hi gail villahermosa si joshua balladares ni");
 	printf("Hello, I am Queen Margarette Paracuelles");
+	printf("Hello from branch staging -edited bleee");
+	printf("Hello from branch staging"); 
+	printf("add new features");
 	return 0;
 } 
