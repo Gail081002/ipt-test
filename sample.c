@@ -10,5 +10,7 @@ int main()
 	printf("Hello from branch staging -edited bleee");
 	printf("Hello from branch staging"); 
 	printf("add new features");
+	printf("kweng");
+	printf("hehe");
 	return 0;
 } 
